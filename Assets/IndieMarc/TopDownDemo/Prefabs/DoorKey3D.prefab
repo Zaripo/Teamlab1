@@ -319,8 +319,8 @@ MonoBehaviour:
   key_index: 0
   lever_state_required: 2
   levers: []
-  audio_door_open: {fileID: 8300000, guid: c9182f902fd740445943157d91c1059b, type: 3}
-  audio_door_close: {fileID: 8300000, guid: c9182f902fd740445943157d91c1059b, type: 3}
+  audio_door_open: {fileID: 0}
+  audio_door_close: {fileID: 0}
   audio_door_close_hard: {fileID: 0}
 --- !u!82 &82897858538168666
 AudioSource:
@@ -333,7 +333,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: c9182f902fd740445943157d91c1059b, type: 3}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 0.8
   m_Pitch: 1
